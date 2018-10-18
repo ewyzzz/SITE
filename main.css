@@ -1,0 +1,17 @@
+body {
+  background: #21252b;
+}
+
+.h-form {
+  color: white;
+  background: #282c34;
+  max-width: 1920px;
+  height: 300px;
+}
+
+.h-form h3 {
+  position: relative;
+  margin: 0 0 60px;
+  margin-left: 30px auto;
+  text-align: center;
+}
